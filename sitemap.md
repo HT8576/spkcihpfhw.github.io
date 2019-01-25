@@ -1,4 +1,4 @@
 # Sitemap
 
-<p><strong><a href="kcomain.github.io/SPKC-2019-IH-Project">Home</a></strong></p>
+<p><strong><a href="https://kcomain.github.io/SPKC-2019-IH-Project" alt="Home">Home</a></strong></p>
 
