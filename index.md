@@ -1,39 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to IH project.
 
-GOTO [here](/dir.md)
+![](https://img.shields.io/github/repo-size/kcomain/SPKC-2019-IH-Project.svg?label=Project%20size&style=popout)
 
-You can use the [editor on GitHub](https://github.com/kcomain/ih2019proj/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there. We know you might be interested in knowing about Hong Kong's history. Therefore, we created this webpage to let you know about Hong Kong's pearl farming history!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kcomain/ih2019proj/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+<iframe id="sitemap" src="sitemap.md">Sitemap</iframe>
+
