@@ -1,38 +1,4 @@
-# H1
+# Sitemap
 
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-Normal
-
-> Quote
-
-```javascript
-var i = {
-    a: "A"
-    b: "B"
-    c: "C"
-    d: "d"
-}
-console.log(i.a)
-console.log(i.b)
-var i = {
-    a:""
-}
-```
-
-*Italics*
-
-**BOLD**
-
-~~Crossover~~
-
-_UNDERLINE_
+<p><strong><a herf="kcomain.github.io/SPKC-2019-IH-Project">Home</a></strong></p>
 
