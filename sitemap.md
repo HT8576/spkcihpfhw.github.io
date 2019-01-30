@@ -1,3 +1,3 @@
 # Sitemap
 
-<p><strong><a href="index.md" title="Home">Home</a></strong></p>
+<p><strong><a href="index" title="Home">Home</a></strong></p>
