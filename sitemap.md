@@ -1,6 +1,6 @@
 # Sitemap
 
-<p><strong><a href="/" title="Home">Home</a></strong></p>
+<p><strong><a href="index" title="Home">Home</a></strong></p>
 
 ​	
 
