@@ -28,3 +28,4 @@
     </ul>
   </li>
 </ul>
+<a href="credits">Credits</a>
